@@ -14,4 +14,3 @@ display_student(
     student_course,
     student_year
 )
-import os
